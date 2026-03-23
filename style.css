@@ -99,7 +99,7 @@ body {
         /* Тёмное наложение для читаемости текста */
         linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)),
         /* Фоновая картинка церкви - замени путь! */
-        url('images/church-img.jpg') center/cover no-repeat;
+        url('img/church-img.jpg') center/cover no-repeat;
     
     min-height: 100vh; /* На весь экран */
     display: flex;
